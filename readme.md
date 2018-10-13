@@ -4,7 +4,7 @@
 
 - 定位于供游泳学习者预约教练上课时间
 
-- 技术栈：react+nodeJs+webpack
+- 技术栈：前端react+webpack 后端golang
 
 - 预期2018年底前1.0上线
 
