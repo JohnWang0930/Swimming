@@ -44,3 +44,7 @@
 - 预约
 
 - 信息
+
+### 设计图
+
+[设计图地址](https://free.modao.cc/app/r764xLBgRFxxHtrf228DJ9FDTjx5OYm)
